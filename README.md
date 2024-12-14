@@ -1,4 +1,4 @@
-README for the Code
+
 This repository contains a Python script that extracts group names and their counts from a specified column in an Excel sheet. The code uses Pandas for reading Excel files and Regular Expressions (Regex) to identify and extract group names from the data.
 
 Requirements
