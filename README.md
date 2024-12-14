@@ -40,11 +40,10 @@ The script will generate a file named group_counts.txt, containing the extracted
 
 Example Output:
 
-Group_name               Number of occurrences
-------------------------------------------------
-Group A                  5
-Group B                  3
-Group C                  2
+Group_name      Number of occurrences
+Group A          5
+Group B          3
+Group C          2
 
 
 
